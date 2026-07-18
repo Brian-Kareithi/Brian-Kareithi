@@ -1,97 +1,124 @@
-# Brian Kareithi
-
-### Decentralization Architect | Full-Stack Engineer | Systems Builder
-
-I design and build scalable decentralized systems, modern web applications, and cloud-native infrastructure. My focus is on creating secure, efficient, and user-centric solutions that bridge emerging technologies with real-world applications.
-
----
-
-## About Me
-
-* Building decentralized applications and distributed systems
-* Experienced across frontend, backend, cloud, and infrastructure
-* Interested in blockchain architecture, cryptography, and scalable software design
-* Currently exploring Rust, Zero-Knowledge Proofs, and cross-chain protocols
-
----
-
-## Core Technologies
-
-**Languages**
-
-JavaScript • TypeScript • Python • Java • C++ • Kotlin
-
-**Frontend**
-
-React • Next.js • Flutter
-
-**Backend**
-
-Node.js • .NET • REST APIs • Microservices
-
-**Cloud & DevOps**
-
-AWS • Azure • Docker • Firebase
-
-**Databases**
-
-PostgreSQL • MongoDB • MySQL
-
-**Networking & Security**
-
-Linux • CCNA • Application Security • Infrastructure Hardening
-
----
-
-## Selected Projects
-
-### BlockVote
-
-Blockchain-based voting platform focused on transparency, auditability, and trustless verification.
-
-### SecureShare
-
-End-to-end encrypted file-sharing platform designed for secure collaboration and privacy.
-
-### DeFi Tracker
-
-Portfolio management and analytics platform for monitoring decentralized finance assets and performance.
-
----
-
-## Open Source
-
-Contributions to projects within the Web3 and JavaScript ecosystem, including community-driven improvements, bug fixes, and performance optimizations.
-
----
-
-## Current Focus
-
-* Cross-chain decentralized exchange infrastructure
-* Zero-Knowledge Proof systems
-* Rust development
-* Quantum-resistant cryptographic research
-
----
-
-## GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Brian-Kareithi&show_icons=true&hide_border=true&count_private=true" />
+# Brian Kareithi
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Kareithi&layout=compact&hide_border=true" />
+Full Stack Software Engineer • AI • GIS
+
+Building modern web and mobile applications with a focus on performance, clean architecture, and exceptional user experience.
+
+<p>
+  <a href="https://kareithi.vercel.app">Portfolio</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a>
+</p>
 
 </div>
 
 ---
 
-## Connect
+## About
 
-* Portfolio: https://kareithi.vercel.app
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Email: [kareithibrian2@gmail.com](mailto:kareithibrian2@gmail.com)
+```ts
+const brian = {
+  name: "Brian Kareithi",
+
+  role: "Full Stack Software Engineer",
+
+  location: "Nairobi, Kenya",
+
+  currentlyBuilding: [
+    "Modern Web Applications",
+    "AI Powered Systems",
+    "GIS Solutions",
+    "Cross Platform Mobile Apps"
+  ],
+
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "React Native",
+    "Expo"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express",
+    "Fastify",
+    "PHP",
+    ".NET"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MongoDB",
+    "Supabase",
+    "Firebase"
+  ],
+
+  tools: [
+    "Docker",
+    "Git",
+    "Linux",
+    "Figma",
+    "Postman"
+  ]
+}
+```
 
 ---
 
-*"Build systems that remain reliable long after the code has been forgotten."*
+## Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,php,dotnet,postgres,mongodb,supabase,firebase,docker,git,linux,figma,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Brian-Kareithi&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Kareithi&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+## Current Focus
+
+- Building scalable SaaS applications
+- AI integration into real-world products
+- GIS and mapping technologies
+- React Native mobile development
+- Modern UI/UX engineering
+
+---
+
+## Philosophy
+
+> Great software should be fast, intuitive, accessible, and built to solve real problems.
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing software engineering, AI, GIS, product development, or new opportunities.
+
+Portfolio
+
+https://kareithi.vercel.app
+
+GitHub
+
+(https://github.com/Brian-Kareithi)
+
+
+
+Email
+
+kareithibrian2@gmail.com
