@@ -47,17 +47,6 @@ Building modern web and mobile applications with a focus on performance, clean a
 
 <br />
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Brian-Kareithi&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Kareithi&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-
-</div>
-
-<br />
-
 ## Connect
 
 [Portfolio](https://kareithi.vercel.app) · [GitHub](https://github.com/Brian-Kareithi) · [Email](mailto:kareithibrian2@gmail.com)
