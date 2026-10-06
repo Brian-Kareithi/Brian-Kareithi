@@ -2,51 +2,42 @@
 
 # Brian Kareithi
 
-Full Stack Software Engineer · AI · GIS
+**Full Stack Software Engineer** · AI · GIS
 
-Building modern web and mobile applications with a focus on performance, clean architecture, and exceptional user experience.
+I build fast, maintainable web and mobile products, from database to interface.
 
-[Portfolio](https://kareithi.vercel.app) · [Email](mailto:kareithibrian2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kareithi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kareithi.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareithibrian2@gmail.com)
 
 </div>
 
-<br />
+---
 
-## Tech Stack
+## About
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+Full stack engineer working across React/Next.js frontends, Node/.NET/PHP backends, and React Native mobile apps. I care about clean architecture, performance, and shipping things people actually use. Lately I focus on AI-powered features and GIS/mapping systems.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+## Focus
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+- **SaaS products:** scalable, multi-tenant web applications
+- **Applied AI:** LLM features integrated into real products
+- **GIS:** mapping and geospatial tooling
+- **Mobile:** cross-platform apps with React Native and Expo
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## Stack
 
-<br />
+| Area | Tools |
+| --- | --- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Mobile** | React Native, Expo |
+| **Backend** | Node.js, Express, .NET, PHP |
+| **Data** | PostgreSQL, MongoDB, Supabase, Firebase |
+| **Tooling** | Docker, Git, Linux, Figma |
 
-## Currently Building
+## Featured Work
 
-- Scalable SaaS applications
-- AI-powered systems integrated into real-world products
-- GIS and mapping solutions
-- Cross-platform mobile apps with React Native
+See my pinned repositories above, or browse case studies on my [portfolio](https://kareithi.vercel.app).
 
-<br />
-
-## Connect
+## Contact
 
 [Portfolio](https://kareithi.vercel.app) · [GitHub](https://github.com/Brian-Kareithi) · [Email](mailto:kareithibrian2@gmail.com)
